@@ -1,0 +1,11 @@
+import math
+
+trigf=math.acos(.8)
+trifg=math.log2(.8)
+
+
+print (trigf)
+print (trifg)
+
+aaa=trigf+trifg
+print (aaa)
